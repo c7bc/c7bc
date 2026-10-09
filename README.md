@@ -1,21 +1,6 @@
 # Daniel Neri
 
-**Desenvolvedor Full Stack · JavaScript, TypeScript, React, Node.js, Go (Golang) e C#**
-
-[Portfólio — danielneri.pro](https://danielneri.pro)
-
-### Português
-
-Desenvolvo aplicações web do frontend ao backend, incluindo integrações e infraestrutura. Trabalhei como freelancer entre 2023 e 2025 e desenvolvo meus próprios produtos, Zapyflow e Vettano.
-
-- **Zapyflow:** CRM e automação de atendimento. Responsável pelo frontend, backend e infraestrutura.
-- **Vettano:** jogo multiplayer de desenho, em reboot e redesign, com migração da interface de React para Godot e visual 2.5D. Desenvolvi toda a parte técnica, incluindo mais de 10 microsserviços em Go, além de serviços em outras linguagens, e infraestrutura com Kubernetes, AWS, Cloudflare e Workers. A arquitetura foi projetada com o objetivo de suportar milhões de acessos e jogadores simultâneos.
-- **Formação:** Análise e Desenvolvimento de Sistemas na UNIP, cursando, com conclusão prevista para 2026.
-- **Inglês:** C1.
-
-Busco oportunidades remotas em desenvolvimento Full Stack. Os projetos e detalhes técnicos estão no [portfólio](https://danielneri.pro).
-
-### English
+[Portfolio — danielneri.pro](https://danielneri.pro)
 
 **Full Stack Developer · JavaScript, TypeScript, React, Node.js, Go (Golang) and C#**
 
