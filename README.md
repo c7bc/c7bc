@@ -1,6 +1,6 @@
 # Daniel Neri
 
-**Desenvolvedor Full Stack · JavaScript, TypeScript, React e Node.js**
+**Desenvolvedor Full Stack · JavaScript, TypeScript, React, Node.js, Go (Golang) e C#**
 
 [Portfólio — danielneri.pro](https://danielneri.pro)
 
@@ -17,7 +17,7 @@ Busco oportunidades remotas em desenvolvimento Full Stack. Os projetos e detalhe
 
 ### English
 
-**Full Stack Developer · JavaScript, TypeScript, React and Node.js**
+**Full Stack Developer · JavaScript, TypeScript, React, Node.js, Go (Golang) and C#**
 
 I build web applications across frontend, backend, integrations and infrastructure. I worked as a freelancer from 2023 to 2025 and develop my own products, Zapyflow and Vettano.
 
